@@ -120,30 +120,6 @@ Currently exploring the intersection of **Large Language Models**, **Agentic AI*
 
 ---
 
-## 🎯 Featured Projects
-
-### 🏙️ [NYC Airbnb Room Type Predictor](https://github.com/Premchougule1008/NYC-Airbnb-Room-Type-Predictor)
-A Machine Learning-powered **FastAPI** web application that predicts Airbnb room types in New York City using listing features like location, price, reviews, and availability.
-
-**Tech Stack**: Python, Scikit-learn, FastAPI, Machine Learning
-**Key Features**: 
-- ML model deployment with FastAPI
-- Real-time predictions
-- Interactive web interface
-
----
-
-### 🧠 [Student Mental Health Score Prediction](https://github.com/Premchougule1008/Student-Mental-Health-Score-Prediction)
-A comprehensive ML/DL web application that predicts students' mental health scores using demographic, social media, lifestyle, academic, and stress-related factors.
-
-**Tech Stack**: Python, TensorFlow, Keras, FastAPI, Deep Learning
-**Key Features**:
-- Deep Learning models for prediction
-- Multi-feature analysis
-- Production-ready API deployment
-
----
-
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -194,26 +170,6 @@ A comprehensive ML/DL web application that predicts students' mental health scor
 </div>
 
 ---
-
-## 🚀 Quick Start with My Work
-
-```bash
-# Clone my repositories
-git clone https://github.com/Premchougule1008/NYC-Airbnb-Room-Type-Predictor.git
-git clone https://github.com/Premchougule1008/Student-Mental-Health-Score-Prediction.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the applications
-python main.py
-```
-
----
-
-<div align="center">
-
-### ✨ *"Building Intelligent Systems, One Model at a Time"* ✨
 
 **Let's build the future of AI together!** 🚀
 
