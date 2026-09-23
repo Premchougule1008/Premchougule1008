@@ -108,13 +108,13 @@ Currently exploring the intersection of **Large Language Models**, **Agentic AI*
 
 ### Generative AI & Agentic Systems
 - **LangChain Ecosystem**: LangChain, LangGraph, LangSmith
-- **AI Agents**: Autonomous Agents, Agent Orchestration, Tool Integration
+- **AI Agents**: Autonomous Agents, Tool Integration
 - **Agentic AI**: Multi-agent Systems, Workflow Automation, Decision Trees
 
 ### Web Development & Deployment
-- **Backend APIs**: FastAPI, Flask
+- **Backend APIs**: FastAPI
 - **Frontend Integration**: Streamlit, Web Interfaces
-- **Production Deployment**: Model Serving, API Development
+- **Production Deployment**: Model Serving
 
 ---
 
@@ -136,8 +136,8 @@ Currently exploring the intersection of **Large Language Models**, **Agentic AI*
 | **Deep Learning** | Neural Networks, CNN, RNN, Transformers, Transfer Learning |
 | **Natural Language Processing** | Text Processing, BERT, Transformers, LLM Applications |
 | **LLM & GenAI** | Prompt Engineering, Fine-tuning, RAG, Vector Databases |
-| **Agentic AI** | Agent Design, Orchestration, Tool Integration, Workflows |
-| **Backend Development** | FastAPI, Flask, RESTful APIs, Database Design |
+| **Agentic AI** | Agent Design,Tool Integration, Workflows |
+| **Backend Development** | FastAPI |
 | **Data Science** | EDA, Data Visualization, Statistical Analysis, Data Preprocessing |
 
 ---
