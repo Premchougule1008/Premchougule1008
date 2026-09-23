@@ -88,7 +88,6 @@ Currently exploring the intersection of **Large Language Models**, **Agentic AI*
     <td>
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -117,18 +116,6 @@ Currently exploring the intersection of **Large Language Models**, **Agentic AI*
 - **Backend APIs**: FastAPI, Flask
 - **Frontend Integration**: Streamlit, Web Interfaces
 - **Production Deployment**: Model Serving, API Development
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Premchougule1008&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premchougule1008&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
